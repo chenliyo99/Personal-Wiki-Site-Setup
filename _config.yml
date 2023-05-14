@@ -1,6 +1,8 @@
 name: Personal Wiki Setup
 permalink: /:title
 
+url: chenliyo99.github.io
+baseurl: /Personal-Wiki-Site-Setup
 markdown: kramdown
 kramdown:
   input: GFM
